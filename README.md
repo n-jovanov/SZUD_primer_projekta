@@ -1,1 +1,1 @@
-# SZUD_primer_projekta
+Primer projekta za predmet Sistemi za upravljanje dokumentima
